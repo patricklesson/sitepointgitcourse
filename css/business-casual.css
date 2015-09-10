@@ -191,6 +191,9 @@ footer p {
     }
 }
 
-
+    
 .brand {color: #Fab11c;}
 
+#footertext {
+    font-size: 22px;
+}
